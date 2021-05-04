@@ -1,0 +1,11 @@
+body{
+    padding: 20px 150px;
+}
+h2{
+    font-weight: bold;
+    font-size: 26px;
+}
+p{
+    margin-bottom: 40px;
+    line-height: 1.5;
+}
